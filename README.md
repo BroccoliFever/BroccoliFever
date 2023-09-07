@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">👋 Hello</h1>
+<br>
+<p align="center">My name is Tyler, and I am a senior CS student.</p>
 
 <!--
 **BroccoliFever/BroccoliFever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
